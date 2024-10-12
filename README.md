@@ -8,7 +8,7 @@ Master Student in Electricity engineering, especially in neuromorphic Engineerin
 
 * 🌍  I'm based in Liège, currently in Montreal
 * ✉️  You can contact me at [florent.boxus@gmail.com](mailto:florent.boxus@gmail.com)
-* 🧠  I'm currently learning at Polytechnique Montreal as an exchange student for University of Liège.
+* 🧠  I'm currently studying at Polytechnique Montreal as an exchange student for University of Liège.
 * 🤝  I'm open to collaborating in many fields: Signal processing, Robotics, Control Theory...
 
 ### Skills
