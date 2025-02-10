@@ -7,8 +7,8 @@
 
 ### 👋 About Me
 
-- 🌍 **Based in**: Liège, Belgium | Currently in Montreal, Canada
-- 📚 **Studying at**: Polytechnique Montreal (Exchange program from University of Liège)
+- 🌍 **Based in**: Liège, Belgium | Currently in Leuven for my Master Thesis
+- 📚 **Studying at**: Liege University
 - 📧 **Get in Touch**: [florent.boxus@gmail.com](mailto:florent.boxus@gmail.com)
 - 💡 **Interests**: Signal Processing, Robotics, Control Theory, Neuromorphic Engineering, machine learning
 - 🤝 **Open to Collaborations**: Always excited to explore new projects in diverse fields, from electronics to AI applications.
