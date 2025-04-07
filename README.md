@@ -39,7 +39,11 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
   </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/r-colored.svg" width="36" height="36" alt="R" />
+  </a>
 </p>
+
 
 
 ---
